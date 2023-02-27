@@ -69,7 +69,7 @@ h2 {text-transform: uppercase;
     color:darkred;
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight:normal;
     text-align:center;
 }
@@ -78,7 +78,7 @@ h3 {text-transform: uppercase;
     color:darkred;
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: normal;
     text-align: center;
 }
